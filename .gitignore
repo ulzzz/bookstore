@@ -1,0 +1,68 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment Variables
+.env
+
+# Build output
+build/
+dist/
+*.bundle.js
+*.map
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Sensitive or private data
+config.js
+
+# IDE files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# Editor/IDE settings
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs_analysis.dat
+*.ntvs_test.*
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
